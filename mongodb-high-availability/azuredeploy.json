@@ -139,8 +139,8 @@
   "variables": {
     "_comment0": "/* T-shirt sizes may vary for different reasons, and some customers may want to modify these - so feel free to go ahead and define your favorite t-shirts */",
     "tshirtSizeXSmall": {
-      "vmSizeMember": "[concat('Standard_', parameters('vmSeries'), '2')]",
-      "vmSizeArbiter": "[concat('Standard_', parameters('vmSeries'), '2')]",
+      "vmSizeMember": "[concat('Standard_', parameters('vmSeries'), '1')]",
+      "vmSizeArbiter": "[concat('Standard_', parameters('vmSeries'), '1')]",
       "numberOfMembers": 1,
       "totalMemberCount": 2,
       "arbiter": "Enabled",
