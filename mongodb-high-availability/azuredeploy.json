@@ -117,7 +117,7 @@
     },
     "mongodbVersion": {
       "type": "string",
-      "defaultValue": "3.0.2",
+      "defaultValue": "3.4.1",
       "metadata": {
         "description": "The version of the MongoDB packages to be deployed"
       }

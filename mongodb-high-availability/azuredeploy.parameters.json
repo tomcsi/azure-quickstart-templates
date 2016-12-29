@@ -42,7 +42,7 @@
       "value": "Ubuntu"
     },
     "mongodbVersion": {
-      "value": "3.0.2"
+      "value": "3.4.1"
     },
     "replicaSetName": {
       "value": "rs0"
